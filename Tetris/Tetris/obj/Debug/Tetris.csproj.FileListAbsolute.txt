@@ -1,0 +1,10 @@
+C:\Users\rusty\OneDrive\Desktop\C#自由制作\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\rusty\OneDrive\Desktop\C#自由制作\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\rusty\OneDrive\Desktop\C#自由制作\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\rusty\OneDrive\Desktop\C#自由制作\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\rusty\OneDrive\Desktop\C#自由制作\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\rusty\OneDrive\Desktop\C#自由制作\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\rusty\OneDrive\Desktop\C#自由制作\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\rusty\OneDrive\Desktop\C#自由制作\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\rusty\OneDrive\Desktop\C#自由制作\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\rusty\OneDrive\Desktop\C#自由制作\Tetris\Tetris\obj\Debug\Tetris.exe.config
